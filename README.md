@@ -2,9 +2,9 @@
 
 The perfect Breeze Dark theme for Yakuake - Remade for 192 DPI (HiDPI / 2x scaling)
 
-![Breeze Perfect Dark - Title bar gradient - Slim add and close tab buttons](https://raw.githubusercontent.com/noahadvs/yakuake-breeze_perfect_dark/master/Yakuake-BreezePerfectDark-SlimAddClose-Gradient-HiDPI.png)
+![Breeze Perfect Dark - Title bar gradient - Slim add and close tab buttons](https://raw.githubusercontent.com/noahadvs/yakuake-breeze_perfect_dark-hidpi/master/Yakuake-BreezePerfectDark-SlimAddClose-Gradient-HiDPI.png)
 
-![Breeze Perfect Dark - No title bar gradient - Square add and close tab buttons](https://raw.githubusercontent.com/noahadvs/yakuake-breeze_perfect_dark/master/Yakuake-BreezePerfectDark-SquareAddClose-NoGradient-HiDPI.png)
+![Breeze Perfect Dark - No title bar gradient - Square add and close tab buttons](https://raw.githubusercontent.com/noahadvs/yakuake-breeze_perfect_dark-hidpi/master/Yakuake-BreezePerfectDark-SquareAddClose-NoGradient-HiDPI.png)
 
 ## Installation
 
