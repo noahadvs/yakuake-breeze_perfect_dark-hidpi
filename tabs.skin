@@ -5,7 +5,7 @@ Email=noahadvs@gmail.com
 Icon=/icon.png
 
 [Tabs] Do not change the line number of the x parameter! You will mess up the scripts!
-x=55
+x=39
 y=0
 red=252
 green=252
@@ -34,7 +34,7 @@ over_image=/tabs/add_over.png
 down_image=/tabs/add_down.png
 
 [MinusButton] Do not change the line number of the x parameter! You will mess up the scripts!
-x=56
+x=40
 y=0
 up_image=/tabs/close_up.png
 over_image=/tabs/close_over.png
