@@ -10,9 +10,9 @@
    viewBox="0 0 0.99999999 56"
    version="1.1"
    id="svg8"
-   sodipodi:docname="selected_right.svg"
+   sodipodi:docname="selected_left.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   inkscape:export-filename="/home/noah/.local/share/yakuake/kns_skins/yakuake-breeze_perfect_dark-hidpi/tabs/selected_right.png"
+   inkscape:export-filename="/home/noah/.local/share/yakuake/kns_skins/yakuake-breeze_perfect_dark-hidpi/tabs/selected_left.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    width="1"
@@ -44,9 +44,9 @@
      inkscape:window-height="1051"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="21.454547"
-     inkscape:cx="-33.832549"
-     inkscape:cy="11.911673"
+     inkscape:zoom="15.170656"
+     inkscape:cx="6.3874209"
+     inkscape:cy="10.80932"
      inkscape:window-x="60"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -66,19 +66,22 @@
        height="55.999954"
        x="0"
        y="996.35999" />
-    <rect
-       style="opacity:1;fill:#33383d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="rect815"
-       width="1"
-       height="1"
-       x="0"
-       y="1051.36" />
-    <rect
-       style="color:#000000;opacity:1;fill:#5a5e62;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="rect815-3"
-       width="1"
-       height="1"
-       x="0"
-       y="1050.36" />
+    <g
+       id="g821">
+      <rect
+         y="1051.36"
+         x="0"
+         height="1"
+         width="1"
+         id="rect815"
+         style="opacity:1;fill:#33383d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <rect
+         y="1050.36"
+         x="0"
+         height="1"
+         width="1"
+         id="rect815-3"
+         style="color:#000000;opacity:1;fill:#5a5e62;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    </g>
   </g>
 </svg>
