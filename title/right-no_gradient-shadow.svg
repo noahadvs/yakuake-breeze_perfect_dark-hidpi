@@ -44,8 +44,8 @@
      id="namedview26"
      showgrid="true"
      inkscape:zoom="11.125147"
-     inkscape:cx="30.441007"
-     inkscape:cy="16.155138"
+     inkscape:cx="31.519644"
+     inkscape:cy="34.132429"
      inkscape:window-x="60"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -87,30 +87,26 @@
      x="0"
      y="52" />
   <g
-     transform="matrix(1.999999,0,0,1.999999,-1107.4394,-1166.2394)"
-     id="g22"
-     style="fill:#31363b;fill-opacity:1">
-    <g
-       id="g18"
-       style="color:#000000;fill:#31363b;fill-opacity:1">
-      <path
-         d="m 573.72,583.12 h 10 v 25 h -10 z"
-         id="path12"
-         style="fill:#31363b;fill-opacity:1"
-         inkscape:connector-curvature="0" />
-      <rect
-         width="30"
-         height="30"
-         x="553.71997"
-         y="583.12"
-         rx="4"
-         id="rect14"
-         style="fill:#31363b;fill-opacity:1" />
-      <path
-         d="m 553.72,583.12 h 10 v 30 h -10 z"
-         id="path16"
-         style="fill:#31363b;fill-opacity:1"
-         inkscape:connector-curvature="0" />
-    </g>
+     transform="translate(-553.71997,-553.12)"
+     id="g18"
+     style="color:#000000;fill:#31363b;fill-opacity:1">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 603.72,553.12 h 10 v 25 h -10 z"
+       id="path12"
+       style="fill:#31363b;fill-opacity:1" />
+    <rect
+       width="30"
+       height="59.999996"
+       x="583.71997"
+       y="553.12"
+       rx="4"
+       id="rect14"
+       style="fill:#31363b;fill-opacity:1;stroke-width:1.41421354" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 553.72,553.12 h 35 v 60 h -35 z"
+       id="path16"
+       style="fill:#31363b;fill-opacity:1;stroke-width:2.64575124" />
   </g>
 </svg>
